@@ -1,0 +1,10 @@
+pandas
+numpy
+chromadb
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+fastapi
+openpyxl
+redis

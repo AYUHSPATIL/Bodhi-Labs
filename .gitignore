@@ -1,0 +1,8 @@
+myenv/
+__pycache__/
+*.pyc
+.env
+vectorstore/
+*.xlsx
+data_processed.xlsx
+.vscode/
